@@ -1,1 +1,1 @@
-$tempodb = TempoDB::Client.new(ENV["TEMPO_APIKEY"], ENV["TEMPO_APISECRET"])
+$tempodb = TempoDB::Client.new(ENV["TEMPODB_API_KEY"], ENV["TEMPODB_API_SECRET"])
