@@ -22,7 +22,7 @@ gem 'uglifier', '>= 1.3.0'
 gem 'jquery-rails'
 gem 'handlebars_assets'
 gem 'momentjs-rails'
-gem 'compass-rails', '~> 2.0.alpha.0'
+gem 'compass-rails'
 gem 'bootstrap-sass', '~> 3.0.0.0'
 
 # Development Tools
